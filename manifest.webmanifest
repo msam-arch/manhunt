@@ -1,0 +1,16 @@
+{
+  "name": "Manhunt Tracker",
+  "short_name": "Manhunt",
+  "description": "Reloj, mapa con pings de los corredores y zona de juego para partidas de manhunt.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#121a15",
+  "theme_color": "#121a15",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
